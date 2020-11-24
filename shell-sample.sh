@@ -5,4 +5,4 @@ echo hello
 
 name=manu
 
-echo -e "\e[1,31m Name=${name} \e[0m"
+echo -e "\e[31mName= ${name} \e[0m]"
